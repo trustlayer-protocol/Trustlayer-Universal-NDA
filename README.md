@@ -13,7 +13,7 @@ to treat Confidential Information as follows:
 
 * **Use it only for the purpose** of participating in mutual discussions or activities with the disclosing party.
 * **Protect it from disclosure**, using at least the same level of care as they do for their own Confidential Information, but no less than reasonable care.
-* **Limit access** to to persons with a legitimate need, who are bound by a confidentiality agreement no less protective than this agreement, and who receive notice of their obligations.
+* **Limit access** to persons with a legitimate need, who are bound by a confidentiality agreement no less protective than this agreement, and who receive notice of their obligations.
 * **Provide immediate notice** in the event they are to be compelled by law to disclose Confidential Information, and cooperate with any effort to prevent or limit disclosure.
 * **Return, destroy or delete** all electronic and physical copies of Confidential Information on request of the disclosing party (including where embodied in notes, summaries or other work product), subject to retention only when required by law or when archived through scheduled backups; and promptly certify compliance as to all persons who had access.
 
