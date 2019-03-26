@@ -23,8 +23,7 @@ to treat Confidential Information as follows:
 **Information is Confidential if**
 
 * It is written or digital and **marked or titled as confidential**, or
-* It is **delivered orally, and promptly later identified** by email as confidential, or
-* It would **reasonably be expected to be confidential** by its nature.
+* It is **delivered orally, and promptly later identified** in writing as confidential.
 
 **But, information is not Confidential if**
 
