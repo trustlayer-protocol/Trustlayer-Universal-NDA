@@ -8,7 +8,6 @@
 **any other person or organization**
 
 * **who has signified their acceptance of these terms**, and
-
 * with whom I have **electronically confirmed a call or meeting.**
 
 **Each party agrees**
