@@ -5,7 +5,7 @@
 
 **I am making this agreement with**
 
-**any other person or organization 
+**any other person or organization**
 
 * **who has signified their acceptance of these terms**, and
 
