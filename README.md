@@ -5,7 +5,11 @@
 
 **I am making this agreement with**
 
-**any other person or organization who has signified their acceptance of these terms**, and with whom I have **electronically confirmed a call or meeting**, such as through an accepted calendar invitation.
+**any other person or organization 
+
+* **who has signified their acceptance of these terms**, and
+
+* with whom I have **electronically confirmed a call or meeting,**
 
 **Each party agrees**
 
