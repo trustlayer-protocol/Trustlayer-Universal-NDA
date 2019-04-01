@@ -1,8 +1,6 @@
 ## UNIVERSAL MUTUAL NON-DISCLOSURE AGREEMENT(General Use 1.0)
 
-**I am making this agreement with**
-
-**any other person or organization**
+**I am making this agreement with any other person or organization**
 
 * **who has signified their acceptance of these terms**, and
 * with whom I have **electronically confirmed a call or meeting.**
